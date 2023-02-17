@@ -6,8 +6,8 @@ The development took place in Google Colab, with GPU on, for performance.
 
 The exercises are listed below:
 
-#1 - Bird Classifier
+# 1 - Bird Classifier
 A Notebook in which you train a Resnet18 model to recognize birds, using fastai library
 
-#2 - Plant Detection Web App Deployment 
+# 2 - Plant Detection Web App Deployment 
 A Notebook in which you train a model to recognize plants, and deploy it an a web app with binder
