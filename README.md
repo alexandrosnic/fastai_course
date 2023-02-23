@@ -11,3 +11,7 @@ A Notebook in which you train a Resnet18 model to recognize birds, using fastai 
 
 # 2 - Plant Detection Web App Deployment 
 A Notebook in which you train a model to recognize plants, and deploy it an a web app with binder
+
+# Additional
+
+## MNIST with fastai
